@@ -1,0 +1,24 @@
+/*general*/
+#twd-jumbo {
+	background: url("../images/OfficeBanner.jpg");
+}
+
+#heading {
+	font-weight: bold;
+	text-align: center;
+	color: white;
+	font-size: 100px;
+	text-shadow: 10px 10px 11px black;
+}
+
+/*footer*/
+.footer {
+	padding: 30px 0;
+	text-align: center;
+}
+
+
+/*form*/
+.twd-opt {
+	margin-right: 20px;
+}
